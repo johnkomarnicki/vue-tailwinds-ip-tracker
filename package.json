@@ -10,6 +10,7 @@
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "leaflet": "^1.7.1",
     "postcss": "^7",
